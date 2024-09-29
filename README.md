@@ -1,4 +1,4 @@
-# Porn-Generator App
+# MCQ-Generator App
 
 This repository contains a Python application that generates Multiple Choice Questions (MCQs) based on a given syllabus using the Groq API and Streamlit for the user interface. The app also creates a downloadable PDF of the generated MCQs.
 
