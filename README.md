@@ -1,4 +1,4 @@
-# MCQ-Generator App
+# Porn-Generator App
 
 This repository contains a Python application that generates Multiple Choice Questions (MCQs) based on a given syllabus using the Groq API and Streamlit for the user interface. The app also creates a downloadable PDF of the generated MCQs.
 
@@ -22,12 +22,14 @@ Follow these steps to set up the MCQ-Generator app on your local machine:
 ### Windows
 
 1. Clone the repository:
+
    ```
    git clone https://github.com/mddanish004/MCQ-Generator.git
    cd MCQ-Generator
    ```
 
 2. Create a virtual environment:
+
    ```
    python -m venv venv
    venv\Scripts\activate
@@ -41,12 +43,14 @@ Follow these steps to set up the MCQ-Generator app on your local machine:
 ### macOS/Linux
 
 1. Clone the repository:
+
    ```
    git clone https://github.com/your-username/MCQ-Generator.git
    cd MCQ-Generator
    ```
 
 2. Create a virtual environment:
+
    ```
    python3 -m venv venv
    source venv/bin/activate
@@ -60,6 +64,7 @@ Follow these steps to set up the MCQ-Generator app on your local machine:
 ## Configuration
 
 1. Create a `.env` file in the project root directory:
+
    ```
    touch .env
    ```
@@ -76,6 +81,7 @@ To run the MCQ-Generator app:
 1. Ensure you're in the project directory and your virtual environment is activated.
 
 2. Run the Streamlit app:
+
    ```
    streamlit run app.py
    ```
